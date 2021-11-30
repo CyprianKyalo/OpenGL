@@ -1,5 +1,3 @@
-﻿  glad.c
-  Main.cpp
+﻿  Main.cpp
 C:\Users\Cyprian\Desktop\OpenGLRoot\DocTutorial\shader_s.h(51,34): warning C4101: 'e': unreferenced local variable
-C:\Users\Cyprian\Desktop\OpenGLRoot\DocTutorial\Main.cpp(194,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
   DocTutorial.vcxproj -> C:\Users\Cyprian\Desktop\OpenGLRoot\DocTutorial\x64\Debug\DocTutorial.exe
